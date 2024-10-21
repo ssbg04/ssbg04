@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ssbg04
-- 👀 I’m interested in software developing
-- 🌱 I’m currently learning c++ and phyton
+- 👋 Hi, I’m Cris Charles
+- 👀 I’m interested in Software Developing
+- 🌱 I’m currently learning C#, C++, HTML, CSS, phyton, java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
