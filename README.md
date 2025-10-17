@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cris Charles
 - 👀 I’m interested in Software Developing
-- 🌱 I’m currently learning C#, C++, HTML, CSS, phyton, java
+- 🌱 I’m currently learning in ReactJS, MySQL, NodeJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
