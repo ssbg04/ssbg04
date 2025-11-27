@@ -71,13 +71,13 @@ Android-ready template using Expo + native modules.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssbg04&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssbg04&layout=compact&theme=tokyonight)
 
 ---
 
 ## 📫 Contact Me
-- **Email:** your-email@example.com  
+- **Email:** crischarlesgarcia345@gmail.com 
 - **LinkedIn:** https://linkedin.com/in/your-profile  
-- **GitHub:** https://github.com/your-username
+- **GitHub:** https://github.com/ssbg04
