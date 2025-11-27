@@ -64,7 +64,7 @@ Serverless function using **Brevo Transactional Email API** for sending contact 
 ### 🔹 **Mobile App Starter (React Native)**
 Android-ready template using Expo + native modules.
 
-**Repo:** [github.com/your-username/rn-starter](https://github.com/)  
+**Repo:** [https://github.com/ssbg04/react-native](https://github.com/)  
 **Stack:** React Native, Expo  
 
 ---
