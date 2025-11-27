@@ -1,14 +1,83 @@
-<h1>👋 I'm Cris Charles</h1>
-- 👀 I’m interested in Software Developing
-- 🌱 I’m currently learning in React, Nodejs, and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hi, I'm Cris Charles Garcia  
+**Frontend & Backend Developer | React • Supabase • Node • PHP**
 
+I build clean, fast, and reliable applications — from full-stack web platforms to mobile apps.  
+Focused on modern tooling, cloud-native architecture, and developer-friendly solutions.
 
+---
 
-<hr>
+## 🚀 About Me
+- Passionate about full-stack development and modern JavaScript frameworks  
+- Experienced with Supabase, Firebase, and serverless backends  
+- Comfortable building APIs, dashboards, and production-ready applications  
+- Enjoy solving complex problems and simplifying workflows  
 
-<!---
-ssbg04/ssbg04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🛠️ Skills & Tools
+
+### **Frontend**
+- React / React Native  
+- Vite / TailwindCSS  
+- JavaScript (ES6+) / TypeScript  
+
+### **Backend**
+- Node.js  
+- Supabase Edge Functions  
+- Firebase Cloud Functions  
+- PHP / MySQL  
+
+### **DevOps & Tools**
+- Git • GitHub  
+- Docker  
+- Postman  
+- Linux / Bash  
+
+---
+
+## ⭐ Featured Projects
+
+### 🔹 **Portfolio Website**
+Personal portfolio built with **React + Tailwind**, fully responsive.
+
+**Repo:** [github.com/your-username/portfolio](https://github.com/)  
+**Stack:** React, Tailwind, Vite  
+
+---
+
+### 🔹 **Employee Management System**
+A complete CRUD & loan management system built with **PHP + MySQL**.
+
+**Repo:** [github.com/your-username/ems](https://github.com/)  
+**Stack:** PHP, MySQL, Bootstrap  
+
+---
+
+### 🔹 **Email Sender API**
+Serverless function using **Brevo Transactional Email API** for sending contact messages.
+
+**Repo:** [github.com/your-username/email-api](https://github.com/)  
+**Stack:** Supabase Edge Functions, Brevo API  
+
+---
+
+### 🔹 **Mobile App Starter (React Native)**
+Android-ready template using Expo + native modules.
+
+**Repo:** [github.com/your-username/rn-starter](https://github.com/)  
+**Stack:** React Native, Expo  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+
+---
+
+## 📫 Contact Me
+- **Email:** your-email@example.com  
+- **LinkedIn:** https://linkedin.com/in/your-profile  
+- **GitHub:** https://github.com/your-username
