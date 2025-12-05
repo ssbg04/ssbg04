@@ -37,7 +37,7 @@ jobs:
 
       - name: Generate Stats
         run: |
-          curl -H "Authorization: token ${{ secrets.GH_STATS_TOKEN }}" \
+          curl -H "Authorization: token ${{ secrets.ACCOUNTTOKEN }}" \
           "https://github-readme-stats.vercel.app/api?username=ssbg04&show_icons=true&theme=github_dark_dimmed" \
           -o stats.svg
 
