@@ -71,7 +71,7 @@ Android-ready template using Expo + native modules.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssbg04&show_icons=true&theme=github_dark_dimmed)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ssbg04&show_icons=true&theme=github_dark_dimmed&cache_seconds=1800)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssbg04&layout=compact&theme=github_dark_dimmed)
 
 ---
