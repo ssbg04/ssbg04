@@ -10,9 +10,7 @@
   I build clean, fast, and reliable applications — from full-stack web platforms to mobile apps.
     
   Focused on modern tooling, cloud-native architecture, and developer-friendly solutions.
-</div>
-
----
+</div><br>
 
 <div align="center">
 
@@ -32,8 +30,6 @@
     <summary>Attended university</summary>
     - I'm 3rd year BSIT student at Pamantasan ng Lungsod ng San Pablo.
   </details>
-
-  
 
 </div>
 
