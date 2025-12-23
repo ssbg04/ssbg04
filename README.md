@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ssbg04.ssbg04" alt="Visitor badge" />
+<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=ssbg04.ssbg04" alt="Visitor badge" />
 
 # 👋 Hi, I'm Cris Charles Garcia  
 **Frontend & Backend Developer | React • Supabase • Node • PHP**
@@ -35,46 +35,14 @@ Focused on modern tooling, cloud-native architecture, and developer-friendly sol
 - Postman  
 - Linux / Bash  
 
----
-
-## ⭐ Featured Projects
-
-### 🔹 **Portfolio Website**
-Personal portfolio built with **React + Tailwind**, fully responsive.
-
-**Repo:** [github.com/your-username/portfolio](https://github.com/)  
-**Stack:** React, Tailwind, Vite  
 
 ---
 
-### 🔹 **Employee Management System**
-A complete CRUD & loan management system built with **PHP + MySQL**.
-
-**Repo:** [github.com/your-username/ems](https://github.com/)  
-**Stack:** PHP, MySQL, Bootstrap  
-
----
-
-### 🔹 **Email Sender API**
-Serverless function using **Brevo Transactional Email API** for sending contact messages.
-
-**Repo:** [github.com/your-username/email-api](https://github.com/)  
-**Stack:** Supabase Edge Functions, Brevo API  
-
----
-
-### 🔹 **Mobile App Starter (React Native)**
-Android-ready template using Expo + native modules.
-
-**Repo:** [https://github.com/ssbg04/react-native](https://github.com/)  
-**Stack:** React Native, Expo  
-
----
 
 ## 📊 GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ssbg04&theme=dark&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssbg04&layout=compact&theme=radical)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ssbg04&theme=normal&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssbg04&layout=compact&theme=normal)
 
 ---
 
