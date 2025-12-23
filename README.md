@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=32&pause=2500&center=true&width=435&lines=Hi!+I'am+Cris+Charles;Call+me+'Cris'+or+'Charles'" />
 </h1>
   
-<h3 align="center">A Software Developer based on Philippines</h3>
+<h3 align="center">A Software Developer from the Philippines</h3>
 
 <div align="center">
   I build clean, fast, and reliable applications — from full-stack web platforms to mobile apps.
@@ -83,7 +83,7 @@
 
 ## **🛠️ Programing Languages, Frameworks, and Tools**
 
-<h3 align="center">Frontend</h3>
+### Frontend
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
