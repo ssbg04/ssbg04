@@ -59,12 +59,18 @@
 
 ## 📫 My Contact and Socials
 
-<div>
+<div align="center">
 
-  <a href="mailto:crischarlesgarcia345@gmail.com">📧 Email</a>
+  <a href="mailto:crischarlesgarcia345@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/>  
+  </a><br>
   
   <a href="https://ph.linkedin.com/in/cris-charles-garcia-187415303">
-    💼 LinkedIn
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a><br>
+
+  <a href="wa.me/+639914970689">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp"/>
   </a>
 </div>
 
