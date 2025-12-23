@@ -1,7 +1,7 @@
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=ssbg04.ssbg04" alt="Visitor badge" />
+![Profile Views](htttps://komarev.com/ghpvc/?username=ssbg04&style=flat-square)
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=400&size=32&pause=2500&center=true&width=435&lines=Hi!+I'am+Cris+Charles;Call+me+'Cris'+or+'Charles'" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=32&pause=2500&center=true&width=435&lines=Hi!+I'am+Cris+Charles;Call+me+'Cris'+or+'Charles'" />
 </h1>
   
 <h3 align="center">A Software Developer based on Philippines</h3>
@@ -16,47 +16,26 @@
 
 <div align="center">
 
-  • I'm Cris Charles V. Garcia, my GitHub username is ssbg04. 
+## About Me
+
+  <details>
+    <summary>Who I am?</summary>
+    - I'm Cris Charles V. Garcia, my GitHub username is ssbg04.
+  </details>
+
+  <details>
+    <summary>Origin of "ssbg"</summary>
+    - `ssbg` is my Filipino first letter of my full name `CCVG` in Filipino `SiSiBiGi`, I use this Filipino username in games.
+  </details>
   
-  • `ssbg` is my Filipino first letter of my full name `CCVG` in Filipino `SiSiBiGi`, I use this Filipino username in games.
-    
-  • I'm 3rd year BSIT student at Pamantasan ng Lungsod ng San Pablo.
+  <details>
+    <summary>Attended university</summary>
+    - I'm 3rd year BSIT student at Pamantasan ng Lungsod ng San Pablo.
+  </details>
+
+  
 
 </div>
-
-<details>
-  <summary>Who I am?</summary>
-  ### Hidden Content
-  This text is hidden until clicked.
-</details>
-
-
-
----
-
-## **🛠️ Programing Languages, Frameworks, and Tools**
-
-<h3 align="center">Frontend</h3>
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-### **Backend**
-- Node.js  
-- Supabase Edge Functions  
-- Firebase Cloud Functions  
-- PHP / MySQL  
-
-### **DevOps & Tools**
-- Git • GitHub  
-- Docker  
-- Postman  
-- Linux / Bash 
-
 
 ---
 
@@ -81,8 +60,44 @@
 ## 📫 My Contact and Socials
 
 <div align="center">
+  <a href="mailto:crischarlesgarcia345@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
+</a>
+
   
+
+
 </div>
 - **Email:** crischarlesgarcia345@gmail.com 
 - **LinkedIn:** https://linkedin.com/in/your-profile  
 - **GitHub:** https://github.com/ssbg04
+
+---
+
+## **🛠️ Programing Languages, Frameworks, and Tools**
+
+<h3 align="center">Frontend</h3>
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+### **Backend**
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+
+### **DevOps & Tools**
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
