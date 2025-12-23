@@ -1,18 +1,29 @@
-<img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=ssbg04.ssbg04" alt="Visitor badge" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ssbg04.ssbg04" alt="Visitor badge" />
 
-# 👋 Hi, I'm Cris Charles Garcia  
-**Frontend & Backend Developer | React • Supabase • Node • PHP**
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=400&size=32&pause=2500&center=true&width=435&lines=Hi!+I'am+Cris+Charles;Call+me+'Cris'+or+'Charles'" />
+</h1>
+  
+<h3 align="center">A Software Developer based on Philippines</h3>
 
-I build clean, fast, and reliable applications — from full-stack web platforms to mobile apps.  
-Focused on modern tooling, cloud-native architecture, and developer-friendly solutions.
+<div align="center">
+  I build clean, fast, and reliable applications — from full-stack web platforms to mobile apps.
+    
+  Focused on modern tooling, cloud-native architecture, and developer-friendly solutions.
+</div>
 
 ---
 
-## 🚀 About Me
-- Passionate about full-stack development and modern JavaScript frameworks  
-- Experienced with Supabase, Firebase, and serverless backends  
-- Comfortable building APIs, dashboards, and production-ready applications  
-- Enjoy solving complex problems and simplifying workflows  
+<div align="center">
+
+  • I'm Cris Charles V. Garcia, my GitHub username is ssbg04. 
+  
+  • `ssbg` is my Filipino first letter of my full name `CCVG` in Filipino `SiSiBiGi`, I use this Filipino username in games.
+    
+  • I'm 3rd year BSIT student at Pamantasan ng Lungsod ng San Pablo.
+
+</div>
+
 
 ---
 
@@ -45,7 +56,11 @@ Focused on modern tooling, cloud-native architecture, and developer-friendly sol
 
 ---
 
-## 📫 Contact Me
+## 📫 My Contact and Socials
+
+<div align="center">
+  
+</div>
 - **Email:** crischarlesgarcia345@gmail.com 
 - **LinkedIn:** https://linkedin.com/in/your-profile  
 - **GitHub:** https://github.com/ssbg04
