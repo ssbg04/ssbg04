@@ -59,18 +59,14 @@
 
 ## 📫 My Contact and Socials
 
-<div align="center">
-  <a href="mailto:crischarlesgarcia345@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/>
-</a>
+<div>
 
+  <a href="mailto:crischarlesgarcia345@gmail.com">📧 Email</a>
   
-
-
+  <a href="https://ph.linkedin.com/in/cris-charles-garcia-187415303">
+    💼 LinkedIn
+  </a>
 </div>
-- **Email:** crischarlesgarcia345@gmail.com 
-- **LinkedIn:** https://linkedin.com/in/your-profile  
-- **GitHub:** https://github.com/ssbg04
 
 ---
 
