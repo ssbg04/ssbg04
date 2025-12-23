@@ -43,8 +43,8 @@ Focused on modern tooling, cloud-native architecture, and developer-friendly sol
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ssbg04?cardType=level-alternate&theme=github-dark&fontFamily=Roboto&preferLogin=false)](https://git.io/awesome-stats-card)
 
-![Github Stats](https://mygithubstats-seven.vercel.app/api?username=ssbg04&theme=default&show_icons=true)
-![Top Languages](https://mygithubstats-seven.vercel.app/api/top-langs/?username=ssbg04&layout=compact&theme=default)
+![Github Stats](https://github-readme-stats-bay-ten-23.vercel.app/api?username=ssbg04&theme=default&show_icons=true)
+![Top Languages](https://github-readme-stats-bay-ten-23.vercel.app/api/top-langs/?username=ssbg04&layout=compact&theme=default)
 
 ---
 
