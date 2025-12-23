@@ -41,7 +41,7 @@ Focused on modern tooling, cloud-native architecture, and developer-friendly sol
 
 ## 📊 GitHub Stats
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ssbg04&theme=default &show_icons=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=ssbg04&theme=default&show_icons=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ssbg04&layout=compact&theme=default)
 
 ---
