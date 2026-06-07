@@ -42,10 +42,10 @@
   <table>
     <tr>
       <td>
-        <img src="htttps://github-readme-stats-bay-ten-23.vercel.app/api?username=ssbg04&theme=github_dark_dimmed&show_icons=true" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats-bay-ten-23.vercel.app/api?username=ssbg04&theme=github_dark_dimmed&show_icons=true" alt="GitHub Stats"/>
       </td>
       <td>
-        <img src="htttps://github-readme-stats-bay-ten-23.vercel.app/api/top-langs/?username=ssbg04&layout=compact&theme=github_dark_dimmed" alt="Top Languages" />
+        <img src="https://github-readme-stats-bay-ten-23.vercel.app/api/top-langs/?username=ssbg04&layout=compact&theme=github_dark_dimmed" alt="Top Languages" />
       </td>
     </tr>
   </table>
