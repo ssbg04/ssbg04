@@ -1,4 +1,4 @@
-![Profile Views](htttps://komarev.com/ghpvc/?username=ssbg04&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=ssbg04&style=flat-square)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto&weight=600&size=32&pause=2500&center=true&width=435&lines=Hi!+I'am+Cris+Charles;Call+me+'Cris'+or+'Charles'" />
