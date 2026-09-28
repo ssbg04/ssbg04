@@ -3,7 +3,7 @@
   <!-- Status Badges -->
   <p>
     <a href="https://crischarles.com">
-      <img src="https://img.shields.io/badge/Portfolio-crischarles.top-090a0f?style=flat-square&logo=googlechrome&logoColor=38bdf8" alt="Portfolio" />
+      <img src="https://img.shields.io/badge/Portfolio-crischarles.com-090a0f?style=flat-square&logo=googlechrome&logoColor=38bdf8" alt="Portfolio" />
     </a>
     <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-090a0f?style=flat-square&logo=statuspage&logoColor=10b981" alt="Status" />
     <img src="https://img.shields.io/badge/Location-Laguna%2C%20Philippines-090a0f?style=flat-square&logo=googlemaps&logoColor=f43f5e" alt="Location" />
