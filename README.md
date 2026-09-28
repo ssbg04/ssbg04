@@ -2,7 +2,7 @@
 
   <!-- Status Badges -->
   <p>
-    <a href="https://crischarles.top">
+    <a href="https://crischarles.com">
       <img src="https://img.shields.io/badge/Portfolio-crischarles.top-090a0f?style=flat-square&logo=googlechrome&logoColor=38bdf8" alt="Portfolio" />
     </a>
     <img src="https://img.shields.io/badge/Status-Available%20for%20Opportunities-090a0f?style=flat-square&logo=statuspage&logoColor=10b981" alt="Status" />
@@ -11,7 +11,7 @@
   </p>
 
   <!-- Typing SVG Hero Title -->
-  <a href="https://crischarles.top">
+  <a href="https://crischarles.com">
     <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=30&pause=2200&color=F8FAFC&center=true&vCenter=true&width=560&height=70&lines=Cris+Charles+Garcia;Software+Developer;Full-Stack+%26+Cross-Platform+Apps" alt="Typing Title" />
   </a>
 
@@ -21,7 +21,7 @@
   </p>
 
   <p>
-    <a href="https://crischarles.top" target="_blank">
+    <a href="https://crischarles.com" target="_blank">
       <img src="https://img.shields.io/badge/Explore%20Portfolio%20↗-090a0f?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Portfolio" />
     </a>
     <a href="mailto:crischarlesgarcia345@gmail.com">
